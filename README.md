@@ -1,6 +1,6 @@
 # Slideshow Angular
 
-[![Build Status](https://secure.travis-ci.org/Fouppy/slideshow-angular.png?branch=master)](https://travis-ci.org/Fouppy/slideshow-angular)
+[![Build Status](https://secure.travis-ci.org/Fouppy/Slideshow-Angular.png?branch=master)](https://travis-ci.org/Fouppy/Slideshow-Angular)
 [![Dependency Status](https://david-dm.org/Fouppy/slideshow-angular.svg)](https://david-dm.org/Fouppy/slideshow-angular)
 [![devDependency Status](https://david-dm.org/Fouppy/slideshow-angular/dev-status.svg)](https://david-dm.org/Fouppy/slideshow-angular#info=devDependencies)
 
