@@ -1,8 +1,8 @@
 # Slideshow Angular
 
 [![Build Status](https://secure.travis-ci.org/Fouppy/slideshow-angular.png?branch=master)](https://travis-ci.org/Fouppy/slideshow-angular)
-[![Dependency Status](https://david-dm.org/Fouppy/slideshow-angular.png)](https://david-dm.org/Fouppy/slideshow-angular)
-[![devDependency Status](https://david-dm.org/Fouppy/slideshow-angular/dev-status.png)](https://david-dm.org/Fouppy/slideshow-angular#info=devDependencies)
+[![Dependency Status](https://david-dm.org/Fouppy/slideshow-angular.svg)](https://david-dm.org/Fouppy/slideshow-angular)
+[![devDependency Status](https://david-dm.org/Fouppy/slideshow-angular/dev-status.svg)](https://david-dm.org/Fouppy/slideshow-angular#info=devDependencies)
 
 This project is generated with [yo angular generator](https://github.com/yeoman/generator-angular)
 version 0.11.1.
