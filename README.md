@@ -2,7 +2,6 @@
 
 [![Build Status](https://travis-ci.org/Fouppy/Slideshow-Angular.svg?branch=master)](https://travis-ci.org/Fouppy/Slideshow-Angular)
 [![Coverage Status](https://coveralls.io/repos/Fouppy/Slideshow-Angular/badge.svg)](https://coveralls.io/r/Fouppy/Slideshow-Angular)
-<!--[![Dependency Status](https://david-dm.org/Fouppy/Slideshow-Angular.svg)](https://david-dm.org/Fouppy/Slideshow-Angular)-->
 [![devDependency Status](https://david-dm.org/Fouppy/Slideshow-Angular/dev-status.svg)](https://david-dm.org/Fouppy/Slideshow-Angular#info=devDependencies)
 [![Built with Grunt](https://cdn.gruntjs.com/builtwith.png)](http://gruntjs.com/)
 
@@ -30,7 +29,7 @@ In lieu of a formal styleguide, take care to maintain the existing coding style.
 
 
 ## License
-Copyright (c) 2015-2016 Frédéric Honoré, contributors.
+Copyright (c) 2015 Frédéric Honoré, contributors.
 Released under the MIT license
 
 ***
