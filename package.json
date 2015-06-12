@@ -1,8 +1,8 @@
 {
-  "name": "slideshow",
-  "version": "0.0.0",
+  "name": "slideshow-angular",
+  "version": "0.0.1",
   "dependencies": {},
-  "repository": {},
+  "repository": {"http://github.com/Fouppy/slideshow-angular.git"},
   "devDependencies": {
     "grunt": "^0.4.5",
     "grunt-autoprefixer": "^2.0.0",

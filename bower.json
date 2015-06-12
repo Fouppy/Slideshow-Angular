@@ -1,6 +1,6 @@
 {
-  "name": "slideshow",
-  "version": "0.0.0",
+  "name": "slideshow-angular",
+  "version": "0.0.1",
   "dependencies": {
     "angular": "^1.3.0",
     "bootstrap-sass-official": "^3.2.0",
