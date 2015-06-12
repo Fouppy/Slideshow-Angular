@@ -4,3 +4,4 @@
 * Add animations
 * Make it responsive
 * SASS it
+* Write doc
