@@ -32,7 +32,6 @@ module.exports = function(config) {
       'bower_components/angular-mocks/angular-mocks.js',
       // endbower
       "app/scripts/**/*.js",
-      "test/mock/**/*.js",
       "test/spec/**/*.js"
     ],
 
@@ -56,7 +55,7 @@ module.exports = function(config) {
     ],
 
     // Coverage stuff
-    reporters: ["coverage"],
+    reporters: ["coverage", "progress"],
     preprocessors: {
         "app/scripts/**/*.js": "coverage"
     },
