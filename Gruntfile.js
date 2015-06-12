@@ -424,12 +424,13 @@ module.exports = function (grunt) {
     // Grunt task to load coverage results and submit them to Coveralls.io
     coveralls: {
       options: {
-        force: true
-      },
-      basic_test: {
-        src: 'coverage-results/lcov.info'
-      },
-    },
+        debug: true,
+        coverageDir: 'coverage',
+        dryRun: true,
+        force: true,
+        recursive: true
+      }
+    }
   });
 
 
