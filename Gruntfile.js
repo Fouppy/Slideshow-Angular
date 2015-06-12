@@ -419,7 +419,17 @@ module.exports = function (grunt) {
         configFile: 'test/karma.conf.js',
         singleRun: true
       }
-    }
+    },
+
+    // Grunt task to load coverage results and submit them to Coveralls.io
+    coveralls: {
+      options: {
+        force: true
+      },
+      basic_test: {
+        src: 'coverage-results/lcov.info'
+      },
+    },
   });
 
 
